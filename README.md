@@ -9,6 +9,6 @@
 - 🐶 dogs
 - 🥾 hiking
 - 🧵 cross stitch
-- ⌨ pc games
+- ⌨ video games
 - 🍫 chocolate
 
