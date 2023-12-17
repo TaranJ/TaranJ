@@ -14,4 +14,4 @@
 - ⌨ video games
 - 🍫 chocolate
 
-#### 🎄 Happy holidays! 🎄✨
+#### Happy holidays! 🎄✨
