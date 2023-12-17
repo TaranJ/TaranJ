@@ -1,6 +1,6 @@
 ## Hello world c:
 
-!image[](https://www.taranj.no/wp-content/uploads/2023/12/twitchtopimagee1106.jpg)
+![image](https://www.taranj.no/wp-content/uploads/2023/12/twitchtopimagee1106.jpg)
 
 - 💻 I’m studying front-end development and hope to work in the field someday
 - 🏔 I've lived in Norway my whole life
