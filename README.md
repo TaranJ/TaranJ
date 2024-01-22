@@ -13,5 +13,3 @@
 - 🧵 cross stitch
 - ⌨ video games
 - 🍫 chocolate
-
-#### Happy holidays! 🎄✨
